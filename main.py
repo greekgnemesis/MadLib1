@@ -99,6 +99,5 @@ def madlib3():
           {answers[15]}. It feels as though i have lived here for {answers[16]} {answers[17]}. I hope one day you can 
           visit, although the only way to get here now is {answers[18]} on a {answers[19]} {answers[20]}!! ''')
 
-
 result = random.choice([madlib1, madlib2, madlib3()])
 result()
