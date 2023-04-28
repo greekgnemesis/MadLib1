@@ -89,6 +89,7 @@ def madlib3():
         "Type a verb ending in ing: ",
         "Type Adjective: ",
         "Type a Noun: ",
+    ]
 
     print(f''' 
           Dear {answers[0]} {answers[1]}. I am writing to you from a {answers[2]} castle in an enchanted forest.
